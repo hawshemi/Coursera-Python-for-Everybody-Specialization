@@ -7,15 +7,15 @@
 
 ### 1. [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
 
-####    *Certificate:* ...
+####    *Certificate:* _https://www.coursera.org/account/accomplishments/verify/7SLBX8HG7HLX_
 #
 ### 2. [Python Data Structures](https://www.coursera.org/learn/python-data)
 
-####    *Certificate:* ...
+####    *Certificate:* _https://www.coursera.org/account/accomplishments/verify/CLMAQ53VZKLP_
 #   
 ### 3. [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data)
 
-####    *Certificate:* ..
+####    *Certificate:* _https://www.coursera.org/account/accomplishments/verify/ABUYPDRMGX2P_
 #   
 ### 4. [Using Databases with Python](https://www.coursera.org/learn/python-databases)
 
