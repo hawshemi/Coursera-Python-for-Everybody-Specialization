@@ -19,11 +19,11 @@
 #   
 ### 4. [Using Databases with Python](https://www.coursera.org/learn/python-databases)
 
-####    **Certificate:** ...
+####    **Certificate:** _Soon..._
 #
 ### 5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization)
 
-####    **Certificate:** ...
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/FQL2TR6MSQNS_
 #
 
 
