@@ -2,7 +2,7 @@
 
 
 ## [Coursera Python for Everybody Specialization](https://www.coursera.org/specializations/python)
-####    *Certificate:* _Soon..._
+####    *Certificate:* _https://www.coursera.org/account/accomplishments/specialization/CYV8M23HEA4X_
 #
 
 ### 1. [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
@@ -19,7 +19,7 @@
 #   
 ### 4. [Using Databases with Python](https://www.coursera.org/learn/python-databases)
 
-####    **Certificate:** _Soon..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/KTNVPLSLBGEB_
 #
 ### 5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization)
 
